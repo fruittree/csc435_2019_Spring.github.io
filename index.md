@@ -63,6 +63,7 @@ The end project of your creative website will be an interactive crowd-sourced us
 
 Day | Lecture | Reading    | Homeworks
 ------- | ---------------- | ---------- | ---------:
-Tuesday, Jan 15 | Internet and Web | Chapter 1 | Homework 1
-
+Tuesday, Jan 15 | Internet and Web | Getting Started With The Web (https://www.google.com)| Homework 1
+------- | ---------------- | ---------- | ---------:
+Friday, 
         

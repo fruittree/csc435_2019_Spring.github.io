@@ -21,14 +21,14 @@ This course is an introduction to programming for the World Wide Web. We will co
 
 We will examine several technologies in various depths, though our majority of time will spend on JavaScript and its libraries. 
 
-•	HyperText Markup Language (HTML) for authoring web pages
-•	Cascading Style Sheets (CSS) for supplying stylistic information to web pages 
-•	JavaScript and its libraries (jQuery, D3) for creating interactive web pages 
-•	PHP Hypertext Processor for generating dynamic pages on a web server 
-•	Asynchronous JavaScript and XML (Ajax) for enhanced web interaction and applications 
-•	JSON for transferring data
-•	Structured Query Language (MySQL) for interacting with databases
-•	Git and Github tools for version control and web hosting. 
+1. HyperText Markup Language (HTML) for authoring web pages
+2. Cascading Style Sheets (CSS) for supplying stylistic information to web pages 
+3. JavaScript and its libraries (jQuery, D3) for creating interactive web pages 
+4.  PHP Hypertext Processor for generating dynamic pages on a web server 
+5. Asynchronous JavaScript and XML (Ajax) for enhanced web interaction and applications 
+6. JSON for transferring data
+7. Structured Query Language (MySQL) for interacting with databases
+8.Git and Github tools for version control and web hosting. 
 
 
 ## Learning outcomes:
@@ -58,4 +58,18 @@ Each week, there will be some requirements that you have to meet, but the requir
 The end project of your creative website will be an interactive crowd-sourced user-response web app. At the end, the working project can also be sent to Amazon Mechanical Turk or other server to collect real-time user responses from the crowd. What type of data do you want to collect? It is entirely up to you (e.g. neighborhood safety rating, movie reviews, labeling photos, political surveys, etc). This project will allow you to learn how to use front-end design, create interactive user experiment and collect data, real-time data visualization, back-end data storage and analysis, as well as interacting with databases and whatever tools you came across. 
 
 
-
+<div class="container">
+    <div class="panel panel-default">
+        <!-- Default panel contents -->
+        <a name="overview"></a>
+        <div class="panel-heading">
+            <center>
+                <h3>Course Schedule</h3></center>
+        </div>
+        <div class="panel-body">
+            <p>Readings should be completed <strong>after</strong> each lecture. All readings are from the Liang text unless stated otherwise.</p>
+        </div>
+      
+        </table>
+    </div>
+</div>

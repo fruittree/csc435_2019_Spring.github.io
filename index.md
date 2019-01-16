@@ -60,4 +60,9 @@ The end project of your creative website will be an interactive crowd-sourced us
 
 
 <h3>Course Schedule</h3></center>
+
+Day | Lecture | Reading    | Homeworks
+------- | ---------------- | ---------- | ---------:
+Tuesday, Jan 15 | Internet and Web | Chapter 1 | Homework 1
+
         

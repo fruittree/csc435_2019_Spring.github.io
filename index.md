@@ -60,39 +60,4 @@ The end project of your creative website will be an interactive crowd-sourced us
 
 
 <h3>Course Schedule</h3></center>
-        </div>
-        <div class="panel-body">
-            <p>Readings should be completed <strong>after</strong> each lecture. All readings are from the Liang text unless stated otherwise.</p>
-        </div>
-        <!-- Table -->
-        <table class="table table-hover">
-            <thead>
-                <tr>
-                    <th>Week</th>
-                    <th>Mon</th>
-                    <th>Tue</th>
-                    <th>Wed</th>
-                    <th>Thur</th>
-                    <th>Fri</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>1</td>
-                    <td></td>
-                    <td>Jan-15 Welcome and Introduction to Java
-                      <br><span class="label label-info">Read</span> Ch 1.1 - 1.10.4
-
-                    <td></td>
-                    <td></td>
-                    <td>Jan-18 Elements of Java Programming
-                      <br><span class="label label-info">Read</span> Ch 2
-                      <br><span class="label label-warning">Submit</span> P0
-                    </td>
-                </tr>
-                
-                
-            </tbody>
-        </table>
-    </div>
-</div>
+        

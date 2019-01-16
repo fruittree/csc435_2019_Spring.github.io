@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Web Programming 
 
-You can use the [editor on GitHub](https://github.com/fruittree/csc435_2019_Spring.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CSC 435 Spring, 2019
 
-### Markdown
+Instructor: <a href="https://sites.google.com/site/beixiao/">Bei Xiao</a>, American University
+Location: DMTI Room 110
+Office: DMTI Room 204
+First Class: Jan 15th
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Office hour: Tuesday, 3-4pm, Friday, 3-4pm or by Appointment
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# General Information
 
-- Bulleted
-- List
+## Course Objective
 
-1. Numbered
-2. List
+The Web is intertwined with our lives. No matter if you decide to be a politician, a musician, a small business owner, a scientist, an artist, a doctor, a journalist, or purely an interesting person, web design is an extremely useful skill. Web development is useful in advertising (personal homepages), entrepreneurship, (web API), journalism (news media and blog), multi-media (Pinterest), social networks (Facebook LinkedIn), e-commerce (Amazon), user experiences and crowd-sourcing (Amazon Mechanical Turk), and online games (Phantasy star online). 
 
-**Bold** and _Italic_ and `Code` text
+This course is an introduction to programming for the World Wide Web. We will cover all the major pieces of how websites work. This will include the relationship between clients and servers, how web pages are constructed, and how the Internet works. We will NOT focus on how to stylize a website. Students who are interested in web design should take courses from the Graphic Design Program. 
 
-[Link](url) and ![Image](src)
-```
+We will examine several technologies in various depths, though our majority of time will spend on JavaScript and its libraries. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+•	HyperText Markup Language (HTML) for authoring web pages
+•	Cascading Style Sheets (CSS) for supplying stylistic information to web pages 
+•	JavaScript and its libraries (jQuery, D3) for creating interactive web pages 
+•	PHP Hypertext Processor for generating dynamic pages on a web server 
+•	Asynchronous JavaScript and XML (Ajax) for enhanced web interaction and applications 
+•	JSON for transferring data
+•	Structured Query Language (MySQL) for interacting with databases
+•	Git and Github tools for version control and web hosting. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fruittree/csc435_2019_Spring.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Learning outcomes:
+The course is NOT simply teaching you how to build a web side. You can learn this from free online tutorials. However, the expected learning outcome of the course is to have a deep understand the fundamental technology and principles behind web applications so that you can adapt to any new programming languages and APIs you might encounter in your career. You will also be expected to learn how to debug your own code, which is an important skill of software engineering. Of course, you will be acquiring skills about building a dynamic user-friendly website that interacts with database. 
+
+## Grading:
+Projects are graded on the Faculty’s computer with the source code submitted on the blackboard. Make sure the code COMPILE and RUN smoothly with all three browsers (Chrome, Safari, Firefox).  Homework can’t be graded with screen shots! 
+
+Graded work will receive categorized point values, with the following categories and their respective weights:
+
+60% individual assignments (approximately 5-6 projects)
+
+10% Mid-term exam (multiple choices and short programming exercises)
+
+10% Creative project (build your own web app)
+
+10% Final Project
+
+10% In-class exercises.  These are short tutorial-like exercises, such a simple maze. 
+
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+

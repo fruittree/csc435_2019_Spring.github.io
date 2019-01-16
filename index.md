@@ -58,36 +58,8 @@ Each week, there will be some requirements that you have to meet, but the requir
 The end project of your creative website will be an interactive crowd-sourced user-response web app. At the end, the working project can also be sent to Amazon Mechanical Turk or other server to collect real-time user responses from the crowd. What type of data do you want to collect? It is entirely up to you (e.g. neighborhood safety rating, movie reviews, labeling photos, political surveys, etc). This project will allow you to learn how to use front-end design, create interactive user experiment and collect data, real-time data visualization, back-end data storage and analysis, as well as interacting with databases and whatever tools you came across. 
 
 
-<div class="container">
-    <div class="panel panel-default">
-        <!-- Default panel contents -->
-        <a name="overview"></a>
-        <div class="panel-heading">
-            <center>
-                <h3>Course Schedule</h3></center>
-        </div>
-        <div class="panel-body">
-            <p>Readings should be completed <strong>after</strong> each lecture. All readings are from the Liang text unless stated otherwise.</p>
-        </div>
-         <!-- Table -->
-        <table class="table table-hover">
-            <thead>
-                <tr>
-                    <th>Week</th>
-                    <th>Mon</th>
-                    <th>Tue</th>
-                    <th>Wed</th>
-                    <th>Thur</th>
-                    <th>Fri</th>
-                </tr>
-            </thead>
-   
- 
-            
-           
 
- 
- 
- 
-     
-</div>
+------- | ---------------- | ---------- | ---------:
+Jan 15     Internet and Web   Homework 1
+------- | ---------------- | ---------- | ---------:
+Jan 18    Intro to HTML

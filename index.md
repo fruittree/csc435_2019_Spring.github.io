@@ -57,6 +57,18 @@ Each week, there will be some requirements that you have to meet, but the requir
 
 The end project of your creative website will be an interactive crowd-sourced user-response web app. At the end, the working project can also be sent to Amazon Mechanical Turk or other server to collect real-time user responses from the crowd. What type of data do you want to collect? It is entirely up to you (e.g. neighborhood safety rating, movie reviews, labeling photos, political surveys, etc). This project will allow you to learn how to use front-end design, create interactive user experiment and collect data, real-time data visualization, back-end data storage and analysis, as well as interacting with databases and whatever tools you came across. 
 
+## Attendance policy
+
+It is an interactive class with lots of live demos and discussions. Missing a class must be accompanied by written medical proof in advance (at least 3 days) and athletes must submit written evidence before they miss classes for sports events.  Without any advanced written notice, missing 2 classes will result in zero attendance score. Missing one class without written request will result in 2% reduction in attendance score.   
+
+In-class quiz, which will be randomly assigned, cannot be made up. 
+
+## Late Policy
+Late Policy: Homework assignments are usually individual programming projects.  All assignments will be submitted electronically on Blackboard, and will be due at 11:59 pm on the due date. No assignments are accepted via email.
+
+Assignments must be submitted by the due date to receive credits.  
+
+Each late homework will receive 5% automatic reduction for each late day. No homework is accepted 5 days after the due date. 
 
 
 <h3>Course Schedule</h3></center>

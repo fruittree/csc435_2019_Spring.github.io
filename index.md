@@ -86,16 +86,16 @@ The end project of your creative website will be an interactive crowd-sourced us
                 <tr>
                     <td>1</td>
                     <td></td>
-                    <td>Jan-15 The Internet and the Web
+                    <td>Jan-15 The Internet and the Web </td>
                    
 
                     <td></td>
                     <td></td>
-                    <td>Jan-18 HTML
+                    <td>Jan-18 HTML </td>
                 
-                    </td>
+           
                 </tr>
-               <tr>
+           
                 
 
           </tbody>

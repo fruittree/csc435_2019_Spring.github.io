@@ -49,10 +49,34 @@ Graded work will receive categorized point values, with the following categories
 
 10% In-class exercises.  These are short tutorial-like exercises, such a simple maze. 
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div class="container">
+    <div class="panel panel-default">
+        <!-- Default panel contents -->
+        <a name="overview"></a>
+        <div class="panel-heading">
+            <center>
+                <h3>Course Schedule</h3></center>
+        </div>
+        <div class="panel-body">
+            <p>Readings should be completed <strong>after</strong> each lecture. All readings are from the Liang text unless stated otherwise.</p>
+        </div>
+        <!-- Table -->
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Week</th>
+                    <th>Mon</th>
+                    <th>Tue</th>
+                    <th>Wed</th>
+                    <th>Thur</th>
+                    <th>Fri</th>
+                </tr>
+            </thead>
+          
+         
+        </table>
+    </div>
+</div>
 
 
 

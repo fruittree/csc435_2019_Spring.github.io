@@ -83,20 +83,19 @@ The end project of your creative website will be an interactive crowd-sourced us
             </thead>
             <tbody>
                 
-                <tr>
+                    <tr>
                     <td>1</td>
                     <td></td>
-                    <td>Jan-15 The Internet and the Web </td>
-                   
+                    <td>Jan-15 Welcome and Introduction to Java
+                      <br><span class="label label-info">Read</span> Ch 1.1 - 1.10.4
 
                     <td></td>
                     <td></td>
-                    <td>Jan-18 HTML </td>
-                
-           
+                    <td>Jan-18 Elements of Java Programming
+               
+                    </td>
                 </tr>
-           
-                
+             
 
           </tbody>
      
